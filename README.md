@@ -1,6 +1,6 @@
-# Hola :), mi nombre es Cristofher Marquez, soy un egresado de la universidad autonoma de campeche en la carrera de Ingenieria en tecnologia de software
+# Hola :), mi nombre es Cristofher Marquez
 
-Soy un estudiante de Ingeniería en Software apasionado por el desarrollo multiplataforma y la ciberseguridad. Me encanta aprender tecnologías nuevas, crear soluciones útiles y explorar cómo el software puede mejorar el día a día de las personas.
+Soy un egresado de la universidad autonoma de campeche en la carrera de Ingenieria en tecnologia de software Me encanta aprender tecnologías nuevas, crear soluciones útiles y explorar cómo el software puede mejorar el día a día de las personas.
 
 ---
 
