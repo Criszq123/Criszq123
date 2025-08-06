@@ -1,2 +1,51 @@
-## Hi there 👋
+# Hola :), mi nombre es Cristofher Marquez, soy un egresado de la universidad autonoma de campeche en la carrera de Ingenieria en tecnologia de software
+
+Soy un estudiante de Ingeniería en Software apasionado por el desarrollo multiplataforma y la ciberseguridad. Me encanta aprender tecnologías nuevas, crear soluciones útiles y explorar cómo el software puede mejorar el día a día de las personas.
+
+---
+
+## 🚀 Tecnologías que manejo
+
+- **Frontend & Mobile**: React, Vue, React Native, Flutter
+- **Backend**: Node.js, Laravel (muy basico), Express
+- **Bases de datos**: MySQL, SQLite, Firebase
+- **Otros**: Git, Figma, Postman, Docker (básico)
+
+---
+
+## 📌 Proyecto destacado
+
+### 🧠 [FlutterMiddleware](https://github.com/Criszq123/FlutterMiddleware)
+Middleware inteligente que interpreta problemas y genera tickets automáticamente, combinando Flutter, APIs REST y razonamiento con IA.  
+🔗 Usa: Flutter + integración con Chat-Gpt.
+
+---
+
+## 🎯 Actualmente enfocado en...
+
+- Profundizar mis conocimientos en **ciberseguridad** 🔐  
+- Explorar análisis forense, pruebas de penetración y redes seguras  
+- Mejorar mis prácticas en **arquitectura de software escalable**
+- Mejorar mis Habilidades Como QA
+
+---
+
+## 🌱 Me gustaría colaborar en...
+
+- Proyectos open source que integren seguridad, inteligencia artificial y Diseño 
+- Aplicaciones móviles o web con impacto social  
+- Retos o hackathons donde pueda aplicar mis conocimientos técnicos y aprender en el camino
+
+---
+
+## 📫 Conecta conmigo
+
+- GitHub: [@Criszq123](https://github.com/Criszq123)
+- LinkedIn: https://www.linkedin.com/in/crismarquez12/
+
+---
+
+> 🧠 “La seguridad no es un producto, sino un proceso.” – Bruce Schneier
+
+![Criszq123's Stats](https://github-readme-stats.vercel.app/api?username=Criszq123&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![Criszq123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Criszq123&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
