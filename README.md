@@ -46,6 +46,3 @@ Middleware inteligente que interpreta problemas y genera tickets automáticament
 ---
 
 > 🧠 “La seguridad no es un producto, sino un proceso.” – Bruce Schneier
-
-![Criszq123's Stats](https://github-readme-stats.vercel.app/api?username=Criszq123&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![Criszq123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Criszq123&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
