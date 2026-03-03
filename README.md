@@ -8,7 +8,7 @@ Soy un egresado de la universidad autonoma de campeche en la carrera de Ingenier
 
 - **Frontend & Mobile**: React, Vue, React Native, Flutter
 - **Backend**: Node.js, Laravel (muy basico), Express
-- **Bases de datos**: MySQL, SQLite, Firebase
+- **Bases de datos**: MySQL, Firebase
 - **Otros**: Git, Figma, Postman, Docker (básico)
 
 ---
