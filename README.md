@@ -22,9 +22,6 @@ Middleware inteligente que interpreta problemas y genera tickets automáticament
 ---
 
 ## 🎯 Actualmente enfocado en...
-
-- Profundizar mis conocimientos en **ciberseguridad** 🔐  
-- Explorar análisis forense, pruebas de penetración y redes seguras  
 - Mejorar mis prácticas en **arquitectura de software escalable**
 - Mejorar mis Habilidades Como QA
 
